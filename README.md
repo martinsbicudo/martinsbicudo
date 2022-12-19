@@ -1,16 +1,25 @@
-### Hi there 👋
+### <img src="https://github.com/martinsbicudo/bicudo.dev/blob/master/public/logo.png" width="50" />
+## Hi, I'm <a href="https://bicudo.dev/about">Bicudo</a>
+Frontend at [@corabank](https://cora.com.br/)
+<br />
+<br />
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=martinsbicudo.martinsbicudo)
 
-<!--
-**martinsbicudo/martinsbicudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```typescript
+class Bicudo {
+  username = 'martinsbicudo
+  name = 'Victor Martins Bicudo'
+  pronouns = ['he', 'him']
+  nationality = 'brazilian'
+  loves = ['wife', 'dog']
+  portfolio = 'https://bicudo.dev'
+  stack = ['html', 'css', 'javascript', 'typescript', 'react.js', 'node.js']
+}
+```
 
-Here are some ideas to get you started:
+### How to reach me :zap:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:earth_americas: [Portfolio](https://bicudo.dev) <br>
+:baby_chick: [Twitter](https://twitter.com/martinsbicudo) <br>
+:briefcase: [LinkedIn](https://www.linkedin.com/in/martinsbicudo) <br>
+:email: [E-mail](mailto:victor_bicudo@outlook.com)
