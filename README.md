@@ -2,8 +2,8 @@
 ## Hi, I'm <a href="https://bicudo.dev/about">Bicudo</a>
 Frontend at [@corabank](https://cora.com.br/)
 <br />
-<br />
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=martinsbicudo.martinsbicudo)
+
+![](https://visitor-badge.glitch.me/badge?page_id=martinsbicudo.martinsbicudo)
 
 ```typescript
 class Bicudo {
