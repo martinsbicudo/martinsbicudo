@@ -1,5 +1,5 @@
 ### <img src="https://github.com/martinsbicudo/bicudo.dev/blob/master/public/images/logo.png" width="50" />
-## Hi, I'm <a href="https://bicudo.dev/about">Bicudo</a>
+## Hi, I'm Bicudo
 Frontend at [@corabank](https://cora.com.br/)
 <br />
 
