@@ -18,7 +18,7 @@ class Bicudo {
 ### How to reach me :zap:
 
 :earth_americas: [Portfolio](https://bicudo.dev) <br>
-:baby_chick: [Twitter](https://twitter.com/martinsbicudo) <br>
+:blue_square: [Bluesky](https://bsky.app/profile/bicudo.bsky.social) <br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/martinsbicudo) <br>
 :email: [E-mail](mailto:victor_bicudo@outlook.com) <br>
 :calendar: [Schedule](https://app.superpowered.me/schedule/martinsbicudo)
