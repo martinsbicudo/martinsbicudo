@@ -21,4 +21,4 @@ class Bicudo {
 :blue_square: [Bluesky](https://bsky.app/profile/bicudo.bsky.social) <br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/martinsbicudo) <br>
 :email: [E-mail](mailto:victor_bicudo@outlook.com) <br>
-:calendar: [Schedule](https://app.superpowered.me/schedule/martinsbicudo)
+:calendar: [Schedule](https://appt.link/bicudo)
