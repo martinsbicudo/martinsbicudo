@@ -1,6 +1,6 @@
 ### <img src="https://github.com/martinsbicudo/bicudo.dev/blob/master/public/images/logo.png" width="50" />
 ## Hi, I'm Bicudo
-Frontend at [@corabank](https://cora.com.br/)
+Software Engineer
 <br />
 
 ```typescript
@@ -19,7 +19,7 @@ class Bicudo {
 
 :earth_americas: [Portfolio](https://bicudo.dev) <br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/martinsbicudo) <br>
-:email: [E-mail](mailto:victor_bicudo@outlook.com) <br>
+:email: [E-mail](mailto:victor.mbicudo@gmail.com) <br>
 :calendar: [Schedule](https://appt.link/bicudo)
 
 <br />
